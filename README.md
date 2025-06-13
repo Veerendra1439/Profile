@@ -1,2 +1,22 @@
+# Hi, I'm Veerendra 👋
 
-Hello world, this is my profile
+Welcome to my GitHub profile!
+
+## 🚀 About Me
+I'm a passionate developer interested in open-source, AI/ML development, and automation.
+
+## 🛠️ Skills
+- Ms word, Excel, Power BI 
+- Python
+- My SQL database 
+- Git & GitHub Actions
+
+## 📈 GitHub Stats
+![Veerendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veerendra1439&show_icons=true&theme=radical)
+
+## 🔗 Links
+- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/veeru-marpudi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Twitter](https://x.com/Veerendra960?t=VSXdyBsvpRQvlzVnrNxO3Q&s=09)
+
+<!-- Add more sections as you like -->
