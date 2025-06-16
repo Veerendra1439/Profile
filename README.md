@@ -6,6 +6,7 @@ Welcome to my GitHub profile!
 I'm a Student interested in open-source, AI/ML developer, and automation.
 
 ## 🛠️ Skills
+- Machine Learninig model application
 - Ms word, Excel, Power BI 
 - Python
 - My SQL database 
