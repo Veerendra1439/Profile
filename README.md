@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-I'm a Student interested in open-source, AI/ML development, and automation.
+I'm a Student interested in open-source, AI/ML developer, and automation.
 
 ## 🛠️ Skills
 - Ms word, Excel, Power BI 
