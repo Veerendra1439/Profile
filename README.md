@@ -1,23 +1,78 @@
-# Hi, I'm Veerendra 👋
+# Marpudi Veerendra
 
-Welcome to my GitHub profile!
+**Guntur, Andhra Pradesh**  
+Phone: +91 9603276695  
+Email: marveeru@gmail.com  
+[LinkedIn](#) | [GitHub](#)
 
-## 🚀 About Me
-I'm a Student interested in open-source, AI/ML developer, and automation.
+---
 
-## 🛠️ Skills
-- Machine Learninig model application
-- Ms word, Excel, Power BI 
-- Python
-- My SQL database 
-- Git & GitHub Actions
+## Career Objective
 
-## 📈 GitHub Stats
-![Veerendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veerendra1439&show_icons=true&theme=radical)
+Final-year B.Tech Artificial Intelligence & Machine Learning student passionate about building AI-driven solutions. Skilled in Python, ML algorithms, and deep learning frameworks. Eager to apply academic and internship experience to real-world projects in a growth-oriented organization.
 
-## 🔗 Links
-- [Portfolio](https://github.com/Veerendra1439/Profile)
-- [LinkedIn](https://www.linkedin.com/in/veeru-marpudi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://x.com/Veerendra960?t=VSXdyBsvpRQvlzVnrNxO3Q&s=09)
+---
 
-<!-- Add more sections as you like -->
+## Education
+
+**B.Tech – Artificial Intelligence & Machine Learning**  
+Acharya Nagarjuna University College of Engineering & Technology  
+*CGPA: 7.9* | 2021–2025
+
+**Intermediate – MPC**  
+Sri Saraswathi Junior College, Pellur, AP  
+*Score: 708/1000*
+
+---
+
+## Technical Skills
+
+- **Languages:** Python, C (Basics), SQL
+- **ML & AI:** Pandas, NumPy, Scikit-learn, TensorFlow, Vision Transformer, Deep Learning, Model Fine-Tuning
+- **Web Technologies:** HTML5, CSS3
+- **Databases:** MySQL
+- **Tools:** VS Code, Git, Jupyter Notebook
+- **OS:** Windows, MacOS
+
+---
+
+## Projects
+
+**Text Classification using Vision Transformer (ViT)**  
+*TensorFlow, Python*  
+- Implemented text classification using Vision Transformer architecture.
+- Achieved improved accuracy over baseline models by leveraging advanced transformer-based techniques.
+
+**Machine Learning Model Fine-Tuning**  
+*Python, Scikit-learn*  
+- Tuned ML and DL models to enhance prediction accuracy.
+- Utilized Pandas and NumPy for data preprocessing and feature engineering.
+
+---
+
+## Internships
+
+**AI with Python Intern**  
+Languify | Virtual | 60 days  
+- Developed Vision Transformer and text classification models in TensorFlow.
+
+**Machine Learning Intern**  
+Fox Trading | Virtual | May–Jun 2025  
+- Applied ML and DL fine-tuning techniques using Pandas, Scikit-learn, and NumPy.
+
+---
+
+## Certifications
+
+- Foundation of Cloud IoT Edge ML – NPTEL
+- Machine Learning & Deep Learning – Coursera/EdX *(Recommended to add credential URL or details)*
+
+---
+
+## Soft Skills
+
+Problem Solving • Team Collaboration • Adaptability • Time Management • Communication
+
+---
+
+*References available upon request.*
