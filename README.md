@@ -3,7 +3,7 @@
 **Guntur, Andhra Pradesh**  
 Phone: +91 9603276695  
 Email: marveeru@gmail.com  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIN|.(https://www.linkedin.com/in/veeru-marpudi?)[GitHub](https://github.com/Veerendra1439/Profile/edit/main/README.md)
 
 ---
 
@@ -17,7 +17,7 @@ Final-year B.Tech Artificial Intelligence & Machine Learning student passionate 
 
 **B.Tech – Artificial Intelligence & Machine Learning**  
 Acharya Nagarjuna University College of Engineering & Technology  
-*CGPA: 7.9* | 2021–2025
+*CGPA: 7.4* | 2022–2026
 
 **Intermediate – MPC**  
 Sri Saraswathi Junior College, Pellur, AP  
@@ -64,9 +64,21 @@ Fox Trading | Virtual | May–Jun 2025
 
 ## Certifications
 
-- Foundation of Cloud IoT Edge ML – NPTEL
-- Machine Learning & Deep Learning – Coursera/EdX *(Recommended to add credential URL or details)*
+- SQL Using AI Workshop – AI For Technies
 
+- Foundation Of Cloud IoT Edge ML – NPTEL
+
+- Machine Learning & Deep Learning - Coursera/EdX
+
+- GenAI – LLMs & Hugging Face – Cuvette
+
+- Microsoft Copilot Studio For Youth – KOENIG Step Forward
+
+- GitHub For Youth – KOENIG Step Forward
+
+- Generative AI For Youth – KOENIG Step Forward
+
+- Machine Learning – Acharya Nagarjuna University
 ---
 
 ## Soft Skills
